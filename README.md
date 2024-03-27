@@ -1,4 +1,3 @@
-
 # Group 8 MIST 4610 Group Project 1
 
 ## Team Name:
@@ -9,7 +8,7 @@
 3. Jenny Gentry [@jmg15190](https://github.com/jmg15190)
 4. Ariana Gonzalez [@ag45846](https://github.com/ag45846)
 5. Josh James [@joshanttt](https://github.com/joshanttt)
-6. Jose Medrano [@josemedjr](https://github.com/josemedjr)
+6. Jose Medrano [[@josemedjr](https://github.com/josemedjr)](https://github.com/josemedjr/MIST4610GroupProject1)
 7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury)
 
 ## Problem Description 
@@ -32,10 +31,36 @@ Our data model is based on the services of a health-care clinic. First off, our 
 #
 
 ## Data Dictionary: 
+<img width="695" alt="Screenshot 2024-03-27 at 10 13 38 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/3f1561ac-14f2-4133-8e38-3ec8f7f3178a">
+
+<img width="671" alt="Screenshot 2024-03-27 at 10 13 58 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/5579f892-6350-4f2d-b126-c0ce8b04a5e7">
+
+<img width="668" alt="Screenshot 2024-03-27 at 10 14 18 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/ddd43dee-45f0-4c25-b5b5-ed7923e3df5c">
+
+<img width="671" alt="Screenshot 2024-03-27 at 10 14 40 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/6bfd847f-caa7-470e-a067-1ac7065e8dfb">
+
+<img width="667" alt="Screenshot 2024-03-27 at 10 14 56 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/3fa6b8f0-6602-43a1-b7d7-4c2ae5648f14">
+
+<img width="678" alt="Screenshot 2024-03-27 at 10 15 21 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/9423da04-00ef-4c6f-9f2f-44552e9aae07">
+
+<img width="669" alt="Screenshot 2024-03-27 at 10 15 36 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/664f64d7-d123-48c0-be85-eddf83a574ee">
+
+<img width="644" alt="Screenshot 2024-03-27 at 10 16 02 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/f9929e77-cff4-4f2d-a304-fec4b90564b1">
+
+<img width="644" alt="Screenshot 2024-03-27 at 10 17 59 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/73ead041-fb33-484c-98c9-ffb72c229cd6">
+
+<img width="639" alt="Screenshot 2024-03-27 at 10 18 15 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/564df81b-0230-48ff-96fc-526a53712d86">
+
+<img width="655" alt="Screenshot 2024-03-27 at 10 18 28 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/1a332faf-b175-4b78-95b8-eb97ea280da1">
+
+<img width="641" alt="Screenshot 2024-03-27 at 10 18 40 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/afb63edf-95b6-421a-bb97-173cfd0ea3b8">
+
+
 
 
 ## Queries:
-<img width="623" alt="Screenshot 2024-03-27 at 9 15 37 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/eacbc06c-6955-4324-9912-95998ffea621">
+<img width="620" alt="Screenshot 2024-03-27 at 10 12 05 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/0372da59-7fee-4506-8d7b-7686a94f5ab5">
+
 
 #
  
@@ -117,4 +142,12 @@ Explain:
 The health clinic may want to know the names and date of their patients appointments to ensure they are arriving on time and on the correct date. This would also ensure that there is enough staff on that day and that each patient is receiving the correct service, which in this case is a drainage service. Having access to this information also allows for staff specializing in a type of drainage service to know what days they have to go into the health clinic and who they are operating this service on. 
 #
 
+
+
+
+## Database Information:
+
+Name of the database: ns_Sp24_47114_Group8
+
+Additional Information: 
 
